@@ -58,12 +58,22 @@ Click Next to continue and view a summary of your machine setting.
 
 Click Start to launch the virtual machine.
 
+![Virtual Box 7 image 7](/image7.png)
+
 You will see a message saying ‘Powering VM up …’ and your desktop window will appear.
 
 On first boot the unattended installation will kick in so do not interact with the prompt to ‘Try and Install Ubuntu’ and let it progress automatically to the splash screen and into the installer.
 
+![Virtual Box 7 image 8](/image8.png)
+
 You will notice at this stage that the resolution of the window is fixed at 800x600. This is because the Guest Additions features are not installed until after the Ubuntu installation has completed.
+
+![Virtual Box 7 image 0](/image9.png)
 
 Once the installation completes, the machine will automatically reboot to complete the installation.
 
+![Virtual Box 7 image 10](/image10.png)
+
 Finally you will be greated with the Ubuntu log-in screen where you can enter your username and password defined during the initial setup (don’t forget that the default password is ‘changeme’ if you left everything as the default).
+
+![Virtual Box 7 image 11](/image11.png)
